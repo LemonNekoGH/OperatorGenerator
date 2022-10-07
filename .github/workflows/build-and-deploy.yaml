@@ -1,0 +1,53 @@
+# WebGL 版本：构建并部署
+name: 'WebGL: Build and deploy'
+on:
+  push:
+    branches:
+      - main
+jobs:
+  buildAndDeploy:
+    permissions:
+      contents: read
+      deployments: write
+    runs-on: ubuntu-20.04
+    steps:
+      # 代码检出
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      # 缓存一些文件夹，加速构建
+      - uses: actions/cache@v2
+        with:
+          path: Library
+          key: Library-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-
+
+      # 构建项目
+      - name: Build project
+        uses: game-ci/unity-builder@v2
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: WebGL
+
+      # 上传产物
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Build
+          path: build
+
+      # 上传到 Cloudflare Pages
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ca2b7969d00e16ef1ecf484462a17ce0
+          projectName: og-ntim
+          directory: build
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
