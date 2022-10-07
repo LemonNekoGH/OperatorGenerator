@@ -1,0 +1,5396 @@
+fileFormatVersion: 2
+guid: 8be4fc7221b402145a27fc68523d2c66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5154264128103898932
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_0
+  - first:
+      213: 7931717857828935103
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_1
+  - first:
+      213: 7767936500710611472
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_2
+  - first:
+      213: 1651970655968309452
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_3
+  - first:
+      213: 2855791748698740946
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_4
+  - first:
+      213: 3865225524675166286
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_5
+  - first:
+      213: 5810612480227839620
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_6
+  - first:
+      213: 1851189238679680566
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_7
+  - first:
+      213: 6597912191395322956
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_8
+  - first:
+      213: 7329977236630810562
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_9
+  - first:
+      213: -3538895222507545288
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_10
+  - first:
+      213: 7593969168289640403
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_11
+  - first:
+      213: 3757395028776457813
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_12
+  - first:
+      213: 3550451028065009441
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_13
+  - first:
+      213: -488308736961080269
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_14
+  - first:
+      213: -2325642797583688677
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_15
+  - first:
+      213: -8292770512720640776
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_16
+  - first:
+      213: 856953106335342575
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_17
+  - first:
+      213: -5737246922358245388
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_18
+  - first:
+      213: -6657038921533401757
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_19
+  - first:
+      213: -2688688712289757151
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_20
+  - first:
+      213: -1366096735743119471
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_21
+  - first:
+      213: -3858610485863936729
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_22
+  - first:
+      213: 538785350509806817
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_23
+  - first:
+      213: -8982854224905208785
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_24
+  - first:
+      213: 4269189093524229274
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_25
+  - first:
+      213: -9213416096855701051
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_26
+  - first:
+      213: -5641610364563840236
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_27
+  - first:
+      213: -607093821984737087
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_28
+  - first:
+      213: 9125228676098131388
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_29
+  - first:
+      213: 1623765018694563192
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_30
+  - first:
+      213: 8547849190029703157
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_31
+  - first:
+      213: -7661696550574818348
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_32
+  - first:
+      213: -7221867940359183050
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_33
+  - first:
+      213: 9084903650372370326
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_34
+  - first:
+      213: 2285422292394723397
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_35
+  - first:
+      213: -826215004600154632
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_36
+  - first:
+      213: -7569243468837528828
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_37
+  - first:
+      213: 8713532097441120753
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_38
+  - first:
+      213: -6030516741154877853
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_39
+  - first:
+      213: 2846965420503292760
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_40
+  - first:
+      213: -6157147243127448829
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_41
+  - first:
+      213: -1238051578264170744
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_42
+  - first:
+      213: -5599201197921526708
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_43
+  - first:
+      213: 8754602051202309474
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_44
+  - first:
+      213: -2923582051728693714
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_45
+  - first:
+      213: 8951192026716369202
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_46
+  - first:
+      213: -5809934387292630555
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_47
+  - first:
+      213: -6881198434234322253
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_48
+  - first:
+      213: -1935827814388308540
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_49
+  - first:
+      213: -3830200124574542545
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_50
+  - first:
+      213: -7336868623528222179
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_51
+  - first:
+      213: -655596122203679824
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_52
+  - first:
+      213: -4513670685075789104
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_53
+  - first:
+      213: -7355678958854544019
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_54
+  - first:
+      213: -7907485101068463922
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_55
+  - first:
+      213: -3104241741127360271
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_56
+  - first:
+      213: -2227206761594128047
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_57
+  - first:
+      213: 3082821071517104770
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_58
+  - first:
+      213: 2377653508314208554
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_59
+  - first:
+      213: 3872471873659430864
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_60
+  - first:
+      213: 8075314239716784516
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_61
+  - first:
+      213: -1648325382728474793
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_62
+  - first:
+      213: -6884569262592862744
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_63
+  - first:
+      213: 8400727934365609986
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_64
+  - first:
+      213: 2716803489046242402
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_65
+  - first:
+      213: 8968491044135555310
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_66
+  - first:
+      213: 2000219317344810988
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_67
+  - first:
+      213: -2142442138711463162
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_68
+  - first:
+      213: -4246462067582741607
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_69
+  - first:
+      213: -4566421338248336737
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_70
+  - first:
+      213: 5490991562293906667
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_71
+  - first:
+      213: 2315611680432580937
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_72
+  - first:
+      213: 5456275423846684953
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_73
+  - first:
+      213: 805618575425333475
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_74
+  - first:
+      213: 2315475725852971652
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_75
+  - first:
+      213: 5538375127692618765
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_76
+  - first:
+      213: -5147762808274676509
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_77
+  - first:
+      213: -5618426928723353453
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_78
+  - first:
+      213: -6824000455988980277
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_79
+  - first:
+      213: -5868128979782083229
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_80
+  - first:
+      213: -8289715706408976044
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_81
+  - first:
+      213: 9128120632686759317
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_82
+  - first:
+      213: -3635613750737888729
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_83
+  - first:
+      213: -4286661179059670608
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_84
+  - first:
+      213: -2060485357892019803
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_85
+  - first:
+      213: -8141988471215760430
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_86
+  - first:
+      213: 2156922470678593383
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_87
+  - first:
+      213: -6348640683065340840
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_88
+  - first:
+      213: 3708153205820447246
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_89
+  - first:
+      213: 6582644303321596354
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_90
+  - first:
+      213: 9158494895334631517
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_91
+  - first:
+      213: -4895600068811121743
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_92
+  - first:
+      213: -7505884009117925762
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_93
+  - first:
+      213: -1131583522427143062
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_94
+  - first:
+      213: 318635992182212072
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_95
+  - first:
+      213: -2481081653846989189
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_96
+  - first:
+      213: 6825041157647801591
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_97
+  - first:
+      213: -6334790656737804652
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_98
+  - first:
+      213: 5971780203535483540
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_99
+  - first:
+      213: 8310054247300956835
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_100
+  - first:
+      213: -2991578200491211615
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_101
+  - first:
+      213: -1968311403835753950
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_102
+  - first:
+      213: -8998243154532622164
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_103
+  - first:
+      213: -188027588786480721
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_104
+  - first:
+      213: 5372642468351034928
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_105
+  - first:
+      213: -5492416179234750742
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_106
+  - first:
+      213: -5846132279778410868
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_107
+  - first:
+      213: 7921121410336078055
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_108
+  - first:
+      213: 2946406932855455842
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_109
+  - first:
+      213: -6695609889622249920
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_110
+  - first:
+      213: -4622490252400808158
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_111
+  - first:
+      213: 6614224326000054414
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_112
+  - first:
+      213: 3071839083659000565
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_113
+  - first:
+      213: 366846185628346594
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_114
+  - first:
+      213: 7226933304520183831
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_115
+  - first:
+      213: 5003060456303418620
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_116
+  - first:
+      213: -5124327287687704045
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_117
+  - first:
+      213: -8755704578518249222
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_118
+  - first:
+      213: -5880532957597494400
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_119
+  - first:
+      213: 8675879415195948518
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_120
+  - first:
+      213: -2863060831322203154
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_121
+  - first:
+      213: -1607813591625838239
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_122
+  - first:
+      213: -8011656686952626167
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_123
+  - first:
+      213: 6844209966192641288
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_124
+  - first:
+      213: -3346858623851467771
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_125
+  - first:
+      213: 8939039914083911503
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_126
+  - first:
+      213: -6749166814021786377
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_127
+  - first:
+      213: -2408853492427320423
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_128
+  - first:
+      213: -3851960122145358661
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_129
+  - first:
+      213: -7618977800148991276
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_130
+  - first:
+      213: 7238824795858017224
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_131
+  - first:
+      213: 8788113985344314836
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_132
+  - first:
+      213: -5127389810252884725
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_133
+  - first:
+      213: -1331335361217921027
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_134
+  - first:
+      213: 6024701155475725755
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_135
+  - first:
+      213: 8749178115612663687
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_136
+  - first:
+      213: 311971789396162580
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_137
+  - first:
+      213: -1841144766183079391
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_138
+  - first:
+      213: 1762705455026310466
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_139
+  - first:
+      213: 7786634644793423773
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_140
+  - first:
+      213: 827257547765844490
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_141
+  - first:
+      213: 6050009901844628162
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_142
+  - first:
+      213: -3897402144603482996
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_143
+  - first:
+      213: -5203092474751168695
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_144
+  - first:
+      213: -8934965861052428689
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_145
+  - first:
+      213: 5604969749500786301
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_146
+  - first:
+      213: -1443312088937603842
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_147
+  - first:
+      213: -4890625128402293527
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_148
+  - first:
+      213: 4927306346268480878
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_149
+  - first:
+      213: 3662072634989432651
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_150
+  - first:
+      213: -3100355839267913366
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_151
+  - first:
+      213: -3755121172998138093
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_152
+  - first:
+      213: -4391458792631036982
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_153
+  - first:
+      213: -2085021326563969438
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_154
+  - first:
+      213: 9205937756737544985
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_155
+  - first:
+      213: 964657259150691976
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_156
+  - first:
+      213: 8549602409630597035
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_157
+  - first:
+      213: -8781905860459798997
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_158
+  - first:
+      213: -6430745128843359859
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_159
+  - first:
+      213: 920461539696696170
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_160
+  - first:
+      213: -7612079148606119195
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_161
+  - first:
+      213: -8238865988679659472
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_162
+  - first:
+      213: -664266481271787379
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_163
+  - first:
+      213: -4477082701988229935
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_164
+  - first:
+      213: -6743575572027562331
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_165
+  - first:
+      213: -3745173771478240870
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_166
+  - first:
+      213: 6278395366901513423
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_167
+  - first:
+      213: 3763605120487934787
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_168
+  - first:
+      213: 356379002081232828
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_169
+  - first:
+      213: 1437201325975184061
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_170
+  - first:
+      213: 3325362287733746374
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_171
+  - first:
+      213: -7868287389843383830
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_172
+  - first:
+      213: -3132269677385071136
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_173
+  - first:
+      213: 1205645957196991369
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_174
+  - first:
+      213: -900237255792807489
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_175
+  - first:
+      213: 3097566060016042717
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_176
+  - first:
+      213: -8394898657521948352
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_177
+  - first:
+      213: 4761983658667961702
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_178
+  - first:
+      213: -7099939807234922144
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_179
+  - first:
+      213: 6096608111502537536
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_180
+  - first:
+      213: -290592600714617774
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_181
+  - first:
+      213: -1961081000954566301
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_182
+  - first:
+      213: 1701659135480308483
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_183
+  - first:
+      213: -1858569831659075586
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_184
+  - first:
+      213: -7330336329811265443
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_185
+  - first:
+      213: 6716262928459502399
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_186
+  - first:
+      213: -1083439542352861439
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_187
+  - first:
+      213: 5971543116596118590
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_188
+  - first:
+      213: -3668577287198248965
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_189
+  - first:
+      213: -3950840916146783197
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_190
+  - first:
+      213: -7242034709796591985
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_191
+  - first:
+      213: -4353411748143351341
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_192
+  - first:
+      213: 189451594151363669
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_193
+  - first:
+      213: -8963658561115922380
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_194
+  - first:
+      213: -2125820460427175820
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_195
+  - first:
+      213: 618754873211832576
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_196
+  - first:
+      213: -6876006322631299955
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_197
+  - first:
+      213: 1631948263284716056
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_198
+  - first:
+      213: 3011462667045989344
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_199
+  - first:
+      213: -1149549891112545311
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_200
+  - first:
+      213: 8311327025150876622
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_201
+  - first:
+      213: 2275191202564289970
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_202
+  - first:
+      213: -7664137889918439350
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_203
+  - first:
+      213: 3567264900753259520
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_204
+  - first:
+      213: -5022822681128802048
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_205
+  - first:
+      213: -4937162668691588902
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_206
+  - first:
+      213: -8469476514629324388
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_207
+  - first:
+      213: 7565437237410517079
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_208
+  - first:
+      213: -2760214312995487272
+    second: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_209
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fdb228aef978740800000000000000
+      internalID: 5154264128103898932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5148e1e5f131e60800000000000000
+      internalID: 7931717857828935103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a95a257114dcb60800000000000000
+      internalID: 7767936500710611472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc03c502f8afce610800000000000000
+      internalID: 1651970655968309452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81eadf67fc1a720800000000000000
+      internalID: 2855791748698740946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404907c22a04a530800000000000000
+      internalID: 3865225524675166286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e8e6bc34173a050800000000000000
+      internalID: 5810612480227839620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363787fdceb0b910800000000000000
+      internalID: 1851189238679680566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_8
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c565b4e2e709b50800000000000000
+      internalID: 6597912191395322956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_9
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2419f57f49b560800000000000000
+      internalID: 7329977236630810562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_10
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5c158b8153eec0800000000000000
+      internalID: -3538895222507545288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_11
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2c2759b2336960800000000000000
+      internalID: 7593969168289640403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_12
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561a030fd2f42430800000000000000
+      internalID: 3757395028776457813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3c30266cb54130800000000000000
+      internalID: 3550451028065009441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1819
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33417b87acd2939f0800000000000000
+      internalID: -488308736961080269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c14978238a9bfd0800000000000000
+      internalID: -2325642797583688677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c379d7292aec80800000000000000
+      internalID: -8292770512720640776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef19445f4284eb00800000000000000
+      internalID: 856953106335342575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7322442543160b0800000000000000
+      internalID: -5737246922358245388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655d021f527d93a0800000000000000
+      internalID: -6657038921533401757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_20
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128dd588cdbdfaad0800000000000000
+      internalID: -2688688712289757151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fe539b146aa0de0800000000000000
+      internalID: -1366096735743119471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8b77f436737ac0800000000000000
+      internalID: -3858610485863936729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_23
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44253fb662a7700800000000000000
+      internalID: 538785350509806817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7867fcad765380800000000000000
+      internalID: -8982854224905208785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_25
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccb768cd43f3b30800000000000000
+      internalID: 4269189093524229274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_26
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9cc0befde532080800000000000000
+      internalID: -9213416096855701051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_27
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a2039349f4b1b0800000000000000
+      internalID: -5641610364563840236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_28
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f34ba26b2397f0800000000000000
+      internalID: -607093821984737087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_29
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1689
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb58905222353ae70800000000000000
+      internalID: 9125228676098131388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bef17ea5c88610800000000000000
+      internalID: 1623765018694563192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b455cc8f00a670800000000000000
+      internalID: 8547849190029703157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf626a49f2ca590800000000000000
+      internalID: -7661696550574818348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635eb101f55c6cb90800000000000000
+      internalID: -7221867940359183050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f38137cbf041e70800000000000000
+      internalID: 9084903650372370326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54842fb577377bf10800000000000000
+      internalID: 2285422292394723397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c5bea4d1b884f0800000000000000
+      internalID: -826215004600154632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_37
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b5e7d2b25a4f690800000000000000
+      internalID: -7569243468837528828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_38
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f141feb64face870800000000000000
+      internalID: 8713532097441120753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_39
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eca6799fc4f4ca0800000000000000
+      internalID: -6030516741154877853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_40
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5be057f3728720800000000000000
+      internalID: 2846965420503292760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_41
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bdc9f443b6d8aa0800000000000000
+      internalID: -6157147243127448829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_42
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc3f726ae81dee0800000000000000
+      internalID: -1238051578264170744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_43
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c12f32d24ab42b0800000000000000
+      internalID: -5599201197921526708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_44
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1559
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd1d38e289e7970800000000000000
+      internalID: 8754602051202309474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e00f1d995d67d0800000000000000
+      internalID: -2923582051728693714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231fcbc09b5093c70800000000000000
+      internalID: 8951192026716369202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e198150577fe5fa0800000000000000
+      internalID: -5809934387292630555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b23d727b721180a0800000000000000
+      internalID: -6881198434234322253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_49
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c56019fbde8225e0800000000000000
+      internalID: -1935827814388308540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d31ca74568dac0800000000000000
+      internalID: -3830200124574542545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1224eafbd43e2a90800000000000000
+      internalID: -7336868623528222179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_52
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b31de3eccad6e6f0800000000000000
+      internalID: -655596122203679824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_53
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daa6f62d683c51c0800000000000000
+      internalID: -4513670685075789104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_54
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e8af75f06be990800000000000000
+      internalID: -7355678958854544019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_55
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0de1c3238f24290800000000000000
+      internalID: -7907485101068463922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_56
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e92b55948be4d0800000000000000
+      internalID: -3104241741127360271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_57
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15975d5204f5711e0800000000000000
+      internalID: -2227206761594128047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_58
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28abdd95e6168ca20800000000000000
+      internalID: 3082821071517104770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_59
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1429
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29970ab44f1ff020800000000000000
+      internalID: 2377653508314208554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d76920e6a8cdb530800000000000000
+      internalID: 3872471873659430864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f8f32487411070800000000000000
+      internalID: 8075314239716784516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f95303cc8ff19e0800000000000000
+      internalID: -1648325382728474793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5549f4bb81570a0800000000000000
+      internalID: -6884569262592862744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_64
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200309e1c81659470800000000000000
+      internalID: 8400727934365609986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_65
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264a429016604b520800000000000000
+      internalID: 2716803489046242402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_66
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d8f8661b767c70800000000000000
+      internalID: 8968491044135555310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_67
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7363b1fd432cb10800000000000000
+      internalID: 2000219317344810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_68
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b664ad9348442e0800000000000000
+      internalID: -2142442138711463162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_69
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9935f8d8f398115c0800000000000000
+      internalID: -4246462067582741607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_70
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa1fe9cffc0a0c0800000000000000
+      internalID: -4566421338248336737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_71
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec023fbbbbe33c40800000000000000
+      internalID: 5490991562293906667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_72
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ede10e84b22020800000000000000
+      internalID: 2315611680432580937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_73
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9195313e69598bb40800000000000000
+      internalID: 5456275423846684953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_74
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1299
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8eea473d12e2b00800000000000000
+      internalID: 805618575425333475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482918d97e8322020800000000000000
+      internalID: 2315475725852971652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2af6c5d24cdc40800000000000000
+      internalID: 5538375127692618765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e412d8fff87f88b0800000000000000
+      internalID: -5147762808274676509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a4fcd9765702b0800000000000000
+      internalID: -5618426928723353453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_79
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55ca98db74c41a0800000000000000
+      internalID: -6824000455988980277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_80
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd9e798c7309ea0800000000000000
+      internalID: -5868128979782083229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_81
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451448e5c7305fc80800000000000000
+      internalID: -8289715706408976044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_82
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d45324a599dae70800000000000000
+      internalID: 9128120632686759317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_83
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a1eb65e84bb8dc0800000000000000
+      internalID: -3635613750737888729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_84
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f0bd8e58b284c0800000000000000
+      internalID: -4286661179059670608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_85
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9d3f1eb7fa763e0800000000000000
+      internalID: -2060485357892019803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_86
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbdbdf9f98d10f80800000000000000
+      internalID: -8141988471215760430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_87
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ffad82f8deeed10800000000000000
+      internalID: 2156922470678593383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_88
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c0c4f6fe815e7a0800000000000000
+      internalID: -6348640683065340840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_89
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1169
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a57ada1b1067330800000000000000
+      internalID: 3708153205820447246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c18b361e104a5b50800000000000000
+      internalID: 6582644303321596354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5826a16592891f70800000000000000
+      internalID: 9158494895334631517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_92
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9228eca55f0cb0800000000000000
+      internalID: -4895600068811121743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ebd37f24eb5d790800000000000000
+      internalID: -7505884009117925762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_94
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7b0028cecb40f0800000000000000
+      internalID: -1131583522427143062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_95
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cca62fb50c6400800000000000000
+      internalID: 318635992182212072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_96
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7626b3916d619dd0800000000000000
+      internalID: -2481081653846989189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_97
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc9403b5ca67be50800000000000000
+      internalID: 6825041157647801591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_98
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49efdaaf57d4618a0800000000000000
+      internalID: -6334790656737804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_99
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492417c847600e250800000000000000
+      internalID: 5971780203535483540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_100
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a289923f4e335370800000000000000
+      internalID: 8310054247300956835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_101
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a44be90a77cb76d0800000000000000
+      internalID: -2991578200491211615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_102
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af40fe4372fa4e0800000000000000
+      internalID: -1968311403835753950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_103
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02e739681df1380800000000000000
+      internalID: -8998243154532622164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_104
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1039
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9986a77edf36df0800000000000000
+      internalID: -188027588786480721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036cd370cd57f8a40800000000000000
+      internalID: 5372642468351034928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_106
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeba16c59407c3b0800000000000000
+      internalID: -5492416179234750742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efcd96aad5edea0800000000000000
+      internalID: -5846132279778410868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_108
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b2dd64f97ded60800000000000000
+      internalID: 7921121410336078055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_109
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2600994ae7db3e820800000000000000
+      internalID: 2946406932855455842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_110
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e297eb74a6413a0800000000000000
+      internalID: -6695609889622249920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_111
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa1ff3b9d99dfb0800000000000000
+      internalID: -4622490252400808158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_112
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801bf71bf17acb50800000000000000
+      internalID: 6614224326000054414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_113
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf7ac0f5d51aa20800000000000000
+      internalID: 3071839083659000565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_114
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8a59589ac471500800000000000000
+      internalID: 366846185628346594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_115
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109d5fec893b4460800000000000000
+      internalID: 7226933304520183831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_116
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcd4c74af07e6540800000000000000
+      internalID: 5003060456303418620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_117
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31298805b7bb2e8b0800000000000000
+      internalID: -5124327287687704045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_118
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09827531d7d7680800000000000000
+      internalID: -8755704578518249222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_119
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 909
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839c647e66246ea0800000000000000
+      internalID: -5880532957597494400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d0e08c5ae66870800000000000000
+      internalID: 8675879415195948518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_121
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb94b2d75d5448d0800000000000000
+      internalID: -2863060831322203154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_122
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d8169e06efa9e0800000000000000
+      internalID: -1607813591625838239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_123
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9084ec7d0b0e0d090800000000000000
+      internalID: -8011656686952626167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_124
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c91bb3b48bfe50800000000000000
+      internalID: 6844209966192641288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_125
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c61e360d19d81d0800000000000000
+      internalID: -3346858623851467771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_126
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478208d079dd0c70800000000000000
+      internalID: 8939039914083911503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_127
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f460609a842652a0800000000000000
+      internalID: -6749166814021786377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_128
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99319e3e288029ed0800000000000000
+      internalID: -2408853492427320423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_129
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc3e8e6da61b8ac0800000000000000
+      internalID: -3851960122145358661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_130
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2488ece04f34690800000000000000
+      internalID: -7618977800148991276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_131
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb18648cc8757460800000000000000
+      internalID: 7238824795858017224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_132
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1716bb17a5f970800000000000000
+      internalID: 8788113985344314836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_133
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b055be6322ad7d8b0800000000000000
+      internalID: -5127389810252884725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_134
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 779
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff70bdea85268de0800000000000000
+      internalID: -1331335361217921027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_135
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd140ad7c90c9350800000000000000
+      internalID: 6024701155475725755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_136
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd6b914235b6970800000000000000
+      internalID: 8749178115612663687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_137
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b6e680b8545400800000000000000
+      internalID: 311971789396162580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_138
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12286970790f276e0800000000000000
+      internalID: -1841144766183079391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_139
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8c7aa543667810800000000000000
+      internalID: 1762705455026310466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_140
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9779ae34feaf0c60800000000000000
+      internalID: 7786634644793423773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_141
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a08505b520b7b00800000000000000
+      internalID: 827257547765844490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_142
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28b0f83f3f5f350800000000000000
+      internalID: 6050009901844628162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_143
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8450181665a9e9c0800000000000000
+      internalID: -3897402144603482996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_144
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc2fc16f6eac7b0800000000000000
+      internalID: -5203092474751168695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_145
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4abb83ef900480800000000000000
+      internalID: -8934965861052428689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_146
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76fdcf6a4ad8cd40800000000000000
+      internalID: 5604969749500786301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_147
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd8d65d4358fbe0800000000000000
+      internalID: -1443312088937603842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_148
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec6bfb7b52012cb0800000000000000
+      internalID: -4890625128402293527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_149
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655cd4140f416440800000000000000
+      internalID: 4927306346268480878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4936b8ab42d230800000000000000
+      internalID: 3662072634989432651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_151
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c0236ac259f4d0800000000000000
+      internalID: -3100355839267913366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_152
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d5ea403123ebc0800000000000000
+      internalID: -3755121172998138093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_153
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3167bbe776e03c0800000000000000
+      internalID: -4391458792631036982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_154
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667a0186248013e0800000000000000
+      internalID: -2085021326563969438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_155
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a2b65d9f02cf70800000000000000
+      internalID: 9205937756737544985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_156
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ecdad8aa6236d00800000000000000
+      internalID: 964657259150691976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_157
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baffad4081a46a670800000000000000
+      internalID: 8549602409630597035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_158
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e5f500627602680800000000000000
+      internalID: -8781905860459798997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_159
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89c73a706761c6a0800000000000000
+      internalID: -6430745128843359859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_160
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd70fb4e226cc00800000000000000
+      internalID: 920461539696696170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_161
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ac2948567c5690800000000000000
+      internalID: -7612079148606119195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_162
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03093b0e80ba9ad80800000000000000
+      internalID: -8238865988679659472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_163
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b89b972d08c6f0800000000000000
+      internalID: -664266481271787379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_164
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc02fdc0053ed1c0800000000000000
+      internalID: -4477082701988229935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6ab490fb10a62a0800000000000000
+      internalID: -6743575572027562331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_166
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91fde03c48760cc0800000000000000
+      internalID: -3745173771478240870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_167
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc7f936257512750800000000000000
+      internalID: 6278395366901513423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_168
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4689aae20b3430800000000000000
+      internalID: 3763605120487934787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_169
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7c57070dc12f400800000000000000
+      internalID: 356379002081232828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_170
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a879cdf6f1f310800000000000000
+      internalID: 1437201325975184061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_171
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa9d5d16f062e20800000000000000
+      internalID: 3325362287733746374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_172
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae913b19e4a3ec290800000000000000
+      internalID: -7868287389843383830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_173
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e54cbae251f784d0800000000000000
+      internalID: -3132269677385071136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_174
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bcc9b3c905bb010800000000000000
+      internalID: 1205645957196991369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_175
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b5ea4cf6b183f0800000000000000
+      internalID: -900237255792807489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_176
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd200938be3ccfa20800000000000000
+      internalID: 3097566060016042717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_177
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049200926245f7b80800000000000000
+      internalID: -8394898657521948352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_178
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6e1158e6f51240800000000000000
+      internalID: 4761983658667961702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_179
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 389
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696b17cc52f77d90800000000000000
+      internalID: -7099939807234922144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_180
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043bfd4b6c08b9450800000000000000
+      internalID: 6096608111502537536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_181
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c5c0cb19b97fbf0800000000000000
+      internalID: -290592600714617774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e55a4837d8c4e0800000000000000
+      internalID: -1961081000954566301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_183
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3032a1bc7f18d9710800000000000000
+      internalID: 1701659135480308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_184
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef704b1d5980536e0800000000000000
+      internalID: -1858569831659075586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_185
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58757122f9654a90800000000000000
+      internalID: -7330336329811265443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_186
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3314f49c85f43d50800000000000000
+      internalID: 6716262928459502399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_187
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107227ef979d6f0f0800000000000000
+      internalID: -1083439542352861439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_188
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3404a173de2fd250800000000000000
+      internalID: 5971543116596118590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_189
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6b7de468961dc0800000000000000
+      internalID: -3668577287198248965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_190
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cfdf48e1bcb29c0800000000000000
+      internalID: -3950840916146783197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_191
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8666872dcf1f7b90800000000000000
+      internalID: -7242034709796591985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_192
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d937e694139593c0800000000000000
+      internalID: -4353411748143351341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_193
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554068b983111a200800000000000000
+      internalID: 189451594151363669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_194
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ebc8b700ba9380800000000000000
+      internalID: -8963658561115922380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_195
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4781bf7ed819f72e0800000000000000
+      internalID: -2125820460427175820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00945d46742469800800000000000000
+      internalID: 618754873211832576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_197
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca8322ea48390a0800000000000000
+      internalID: -6876006322631299955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_198
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812b6ec8c48d5a610800000000000000
+      internalID: 1631948263284716056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_199
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb60ab175ddac920800000000000000
+      internalID: 3011462667045989344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_200
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d5a0f67afb00f0800000000000000
+      internalID: -1149549891112545311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_201
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd832e4e3c75370800000000000000
+      internalID: 8311327025150876622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_202
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b530f0285a139f10800000000000000
+      internalID: 2275191202564289970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_203
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40bcc9023383a590800000000000000
+      internalID: -7664137889918439350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_204
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cfd1de688718130800000000000000
+      internalID: 3567264900753259520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_205
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ea8132695b4ab0800000000000000
+      internalID: -5022822681128802048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_206
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8715606bcab7bb0800000000000000
+      internalID: -4937162668691588902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_207
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c917100bbff567a80800000000000000
+      internalID: -8469476514629324388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_208
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750dd528515ddf860800000000000000
+      internalID: 7565437237410517079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_209
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 129
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d184f1e4bfb1b9d0800000000000000
+      internalID: -2760214312995487272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f6838f6bf4f3e748bbb8dce6779919d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_196: 618754873211832576
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_91: 9158494895334631517
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_43: -5599201197921526708
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_77: -5147762808274676509
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_149: 4927306346268480878
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_90: 6582644303321596354
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_97: 6825041157647801591
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_67: 2000219317344810988
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_200: -1149549891112545311
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_100: 8310054247300956835
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_150: 3662072634989432651
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_59: 2377653508314208554
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_102: -1968311403835753950
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_71: 5490991562293906667
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_87: 2156922470678593383
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_130: -7618977800148991276
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_187: -1083439542352861439
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_46: 8951192026716369202
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_5: 3865225524675166286
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_175: -900237255792807489
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_195: -2125820460427175820
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_208: 7565437237410517079
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_156: 964657259150691976
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_140: 7786634644793423773
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_14: -488308736961080269
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_115: 7226933304520183831
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_96: -2481081653846989189
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_62: -1648325382728474793
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_146: 5604969749500786301
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_33: -7221867940359183050
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_75: 2315475725852971652
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_8: 6597912191395322956
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_26: -9213416096855701051
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_82: 9128120632686759317
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_186: 6716262928459502399
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_209: -2760214312995487272
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_11: 7593969168289640403
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_29: 9125228676098131388
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_44: 8754602051202309474
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_61: 8075314239716784516
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_13: 3550451028065009441
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_153: -4391458792631036982
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_78: -5618426928723353453
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_193: 189451594151363669
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_16: -8292770512720640776
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_126: 8939039914083911503
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_204: 3567264900753259520
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_178: 4761983658667961702
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_70: -4566421338248336737
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_103: -8998243154532622164
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_202: 2275191202564289970
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_191: -7242034709796591985
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_166: -3745173771478240870
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_172: -7868287389843383830
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_38: 8713532097441120753
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_122: -1607813591625838239
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_189: -3668577287198248965
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_69: -4246462067582741607
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_36: -826215004600154632
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_159: -6430745128843359859
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_141: 827257547765844490
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_185: -7330336329811265443
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_45: -2923582051728693714
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_131: 7238824795858017224
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_199: 3011462667045989344
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_3: 1651970655968309452
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_120: 8675879415195948518
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_81: -8289715706408976044
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_0: 5154264128103898932
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_55: -7907485101068463922
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_54: -7355678958854544019
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_114: 366846185628346594
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_31: 8547849190029703157
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_152: -3755121172998138093
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_41: -6157147243127448829
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_32: -7661696550574818348
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_162: -8238865988679659472
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_197: -6876006322631299955
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_98: -6334790656737804652
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_177: -8394898657521948352
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_121: -2863060831322203154
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_135: 6024701155475725755
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_21: -1366096735743119471
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_60: 3872471873659430864
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_108: 7921121410336078055
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_171: 3325362287733746374
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_161: -7612079148606119195
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_18: -5737246922358245388
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_194: -8963658561115922380
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_53: -4513670685075789104
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_57: -2227206761594128047
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_88: -6348640683065340840
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_167: 6278395366901513423
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_39: -6030516741154877853
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_190: -3950840916146783197
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_48: -6881198434234322253
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_49: -1935827814388308540
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_1: 7931717857828935103
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_129: -3851960122145358661
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_79: -6824000455988980277
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_19: -6657038921533401757
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_30: 1623765018694563192
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_63: -6884569262592862744
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_9: 7329977236630810562
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_109: 2946406932855455842
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_117: -5124327287687704045
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_101: -2991578200491211615
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_37: -7569243468837528828
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_144: -5203092474751168695
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_72: 2315611680432580937
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_124: 6844209966192641288
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_142: 6050009901844628162
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_168: 3763605120487934787
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_128: -2408853492427320423
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_133: -5127389810252884725
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_50: -3830200124574542545
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_80: -5868128979782083229
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_68: -2142442138711463162
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_23: 538785350509806817
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_84: -4286661179059670608
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_160: 920461539696696170
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_20: -2688688712289757151
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_116: 5003060456303418620
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_139: 1762705455026310466
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_206: -4937162668691588902
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_119: -5880532957597494400
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_7: 1851189238679680566
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_123: -8011656686952626167
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_73: 5456275423846684953
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_155: 9205937756737544985
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_111: -4622490252400808158
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_47: -5809934387292630555
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_113: 3071839083659000565
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_165: -6743575572027562331
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_154: -2085021326563969438
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_2: 7767936500710611472
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_143: -3897402144603482996
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_85: -2060485357892019803
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_181: -290592600714617774
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_42: -1238051578264170744
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_184: -1858569831659075586
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_137: 311971789396162580
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_163: -664266481271787379
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_180: 6096608111502537536
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_74: 805618575425333475
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_93: -7505884009117925762
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_76: 5538375127692618765
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_151: -3100355839267913366
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_183: 1701659135480308483
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_192: -4353411748143351341
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_118: -8755704578518249222
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_169: 356379002081232828
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_138: -1841144766183079391
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_104: -188027588786480721
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_112: 6614224326000054414
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_182: -1961081000954566301
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_10: -3538895222507545288
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_134: -1331335361217921027
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_95: 318635992182212072
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_147: -1443312088937603842
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_99: 5971780203535483540
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_94: -1131583522427143062
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_173: -3132269677385071136
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_40: 2846965420503292760
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_125: -3346858623851467771
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_51: -7336868623528222179
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_58: 3082821071517104770
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_205: -5022822681128802048
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_89: 3708153205820447246
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_188: 5971543116596118590
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_15: -2325642797583688677
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_107: -5846132279778410868
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_158: -8781905860459798997
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_157: 8549602409630597035
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_27: -5641610364563840236
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_164: -4477082701988229935
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_127: -6749166814021786377
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_176: 3097566060016042717
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_35: 2285422292394723397
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_22: -3858610485863936729
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_66: 8968491044135555310
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_12: 3757395028776457813
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_64: 8400727934365609986
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_86: -8141988471215760430
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_174: 1205645957196991369
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_179: -7099939807234922144
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_52: -655596122203679824
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_65: 2716803489046242402
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_28: -607093821984737087
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_25: 4269189093524229274
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_6: 5810612480227839620
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_17: 856953106335342575
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_24: -8982854224905208785
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_34: 9084903650372370326
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_207: -8469476514629324388
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_145: -8934965861052428689
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_198: 1631948263284716056
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_136: 8749178115612663687
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_201: 8311327025150876622
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_148: -4890625128402293527
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_132: 8788113985344314836
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_110: -6695609889622249920
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_4: 2855791748698740946
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_203: -7664137889918439350
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_56: -3104241741127360271
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_92: -4895600068811121743
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_83: -3635613750737888729
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_106: -5492416179234750742
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_105: 5372642468351034928
+      SpriteAtlasTexture-SKILL_ICONS-2048x2048-fmt34_170: 1437201325975184061
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
