@@ -49,6 +49,9 @@ public class 读取数据 : MonoBehaviour
     // 用于导出数据
     [DllImport("__Internal")]
     private static extern void JSExport(string data);
+    // 用于导入数据
+    [DllImport("__Internal")]
+    private static extern void JSImport();
 
     public List<string> MonoName;
     private void Start()
@@ -60,6 +63,7 @@ public class 读取数据 : MonoBehaviour
     //读取数据 ReadBin =new 读取数据();
     public static bool Save=false;
     public static bool Load=false;
+    public static MemoryStream importDataFromJS = null;
 
     private void Update()
     {
@@ -73,6 +77,18 @@ public class 读取数据 : MonoBehaviour
         {
             Load = false;
             LoadByBin();
+        }
+
+        // 如果检测到内存流不为空，就进行加载
+        if (importDataFromJS != null)
+        {
+            MemoryStream local = new MemoryStream(importDataFromJS.ToArray());
+            importDataFromJS.Close();
+            importDataFromJS = null;
+
+            Debug.Log("length: " + local.Length);
+            LoadByBinInternal(local);
+            local.Close();
         }
        
     }
@@ -201,24 +217,21 @@ public class 读取数据 : MonoBehaviour
     private string OpenOGFTitle = "打开干员档案";//文件打开窗口标题
     private string OGFType = "OGF";//？
 
-    
-    public void LoadByBin() 
+    // 复用代码
+    public void LoadByBinInternal(Stream s)
     {
-        AlreadyRead = true;
-        LoadPath = FileOpen.OpenFile(OpenOGFFileType, OpenOGFTitle, OGFType);
         BinaryFormatter binaryFormatter = new BinaryFormatter();
-        FileStream fileStream = File.Open(LoadPath,FileMode.Open);
-        SaveGame LDD=(SaveGame)binaryFormatter.Deserialize(fileStream);
-        fileStream.Close();
+        SaveGame LDD = (SaveGame)binaryFormatter.Deserialize(s);
+        s.Close();
         Debug.Log("<color=#3dec3d>准备读取主要数据资源</color>");
 
         #region  主要数据资源
         BST = LDD.BST_2bit;
-        MER=LDD.MER_2bit;
+        MER = LDD.MER_2bit;
         OIT = LDD.OIT_2bit;
-        PIC=LDD.PIC_2bit;
+        PIC = LDD.PIC_2bit;
         PNS = LDD.PNS_2bit;
-        PL=LDD.PL_2bit;
+        PL = LDD.PL_2bit;
         STAR = LDD.Star_2bit;
         #endregion
         Debug.Log("<color=#3dec3d>准备读取游戏界面数据</color>");
@@ -228,10 +241,10 @@ public class 读取数据 : MonoBehaviour
         OPP = LDD.OPP2bit;
         OPP2 = LDD.OPP2bit2;
         CPLG = LDD.CPLG2bit;
-        PPOS = LDD.PPOS2bit; 
+        PPOS = LDD.PPOS2bit;
         TAG = LDD.TAG2bit;
         PRF = LDD.PRF2bit;
-        LVL=LDD.LVL2bit;
+        LVL = LDD.LVL2bit;
         SKL1 = LDD.SKL12bit;
         SKL2 = LDD.SKL22bit;
         SKL3 = LDD.SKL32bit;
@@ -239,14 +252,14 @@ public class 读取数据 : MonoBehaviour
 
         #endregion
         #region 技能界面
-        SDS= LDD.SDS_2bit;
+        SDS = LDD.SDS_2bit;
         SPT = LDD.SPT_2bit;
         UST = LDD.UST_2bit;
-        CD= LDD.CD_2bit;
-        CDU= LDD.CDU_2bit;
+        CD = LDD.CD_2bit;
+        CDU = LDD.CDU_2bit;
         #endregion
-        Debug.Log("<color=#3dec3d>准备覆盖数据,ABI:</color>"+ABI[1]+"+"+LDD.Abi_2bit[1]);
-        if (BST!= null)
+        Debug.Log("<color=#3dec3d>准备覆盖数据,ABI:</color>" + ABI[1] + "+" + LDD.Abi_2bit[1]);
+        if (BST != null)
         {
             CoverMainData();
             Debug.Log("Loaded!");
@@ -254,6 +267,24 @@ public class 读取数据 : MonoBehaviour
         主要数据.AlreadyRead = true;
         //LoadedString = saveGame.Name[0].ToString();
         //Debug.Log(LoadedString);
+    }
+
+
+    public void LoadByBin() 
+    {
+        AlreadyRead = true;
+        // WebGL 独有读取方式
+        if (Application.platform == RuntimePlatform.WebGLPlayer)
+        {
+            Debug.Log("检测到 WebGL 平台");
+            // 调用 JS 函数，读取数据
+            JSImport();
+            return;
+        }
+        LoadPath = FileOpen.OpenFile(OpenOGFFileType, OpenOGFTitle, OGFType);
+        FileStream fs = File.Open(LoadPath, FileMode.Open);
+        LoadByBinInternal(fs);
+
     }
     //--------将导入数据覆盖到主要数据
     public void CoverMainData()
