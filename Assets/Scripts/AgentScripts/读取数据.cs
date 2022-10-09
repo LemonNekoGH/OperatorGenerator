@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.InteropServices;
 using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
 
 [System.Serializable]
 public class SaveGame
@@ -44,6 +46,10 @@ public class SaveGame
 }
 public class 读取数据 : MonoBehaviour
 {
+    // 用于导出数据
+    [DllImport("__Internal")]
+    private static extern void JSExport(string data);
+
     public List<string> MonoName;
     private void Start()
     {
@@ -130,12 +136,29 @@ public class 读取数据 : MonoBehaviour
         SVD.CDU_2bit = 技能区域.CDU_sta;
         #endregion
         BinaryFormatter binaryFormatter = new BinaryFormatter();
-        FileStream fileStream = File.Create(SavePath);
-        binaryFormatter.Serialize(fileStream, SVD);
+        // WebGL 平台导出方式
+        if (Application.platform == RuntimePlatform.WebGLPlayer)
+        {
+            Debug.Log("检测到 WebGL 平台");
+            // 新建内存流
+            MemoryStream ms = new MemoryStream();
+            // 将数据导入到内存中
+            binaryFormatter.Serialize(ms, SVD);
+            // 转成 Base64
+            string base64GameData = Convert.ToBase64String(ms.ToArray());
+            // 交给 JS 处理
+            JSExport(base64GameData);
+            // 关闭流
+            ms.Close();
+        } else
+        {
+            FileStream fileStream = File.Create(SavePath);
+            binaryFormatter.Serialize(fileStream, SVD);
+            STALoadPath = SavePath;
+            Instantiate(Savetip, new Vector3(0, 4, 95), Quaternion.identity, tipParent.transform);
+            fileStream.Close();
+        }
         Debug.Log("已导出数据!");
-        STALoadPath = SavePath;
-        Instantiate(Savetip, new Vector3(0,4,95), Quaternion.identity,tipParent.transform);
-        fileStream.Close();
         yield break;
     }
     public void SaveBybin()
